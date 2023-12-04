@@ -1,11 +1,12 @@
 ## My codebits on Data Science
-A Data science enthusiast.Currently works as a risk advisory consultant related to Information Technology. A constant learner, reading towards a post-graduate degree in Data Analytics. Interested in application of data science in Business and Finance.
+A Data science enthusiast.A constant learner, reading towards a post-graduate degree in Data Analytics. Interested in application of data science in emerging fields.
 
 ## Education
-- Master of Data analytics
+- Master of Data analytics (2022 - 2023)
+- BSc(Hons) Accounting and Finance (2015 - 2018)
 
 ## Work Experience
-- Data analyst at Deloitte ( 2022 Jan - Current )
+- IT-Risk Advisory Consultant/Data analyst at Deloitte ( 2022 Jan - Current )
 - Business Analytics Intern at PMSquare ( 2019 Jan - 2021 April )
 
 ## Projects List
