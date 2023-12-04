@@ -1,5 +1,5 @@
 ## My codebits on Data Science
-A Data science enthusiast
+A Data science enthusiast.Currently works as a risk advisory consultant related to Information Technology. A constant learner, reading towards a post-graduate degree in Data Analytics. Interested in application of data science in Business and Finance.
 
 ## Education
 - Master of Data analytics
