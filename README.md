@@ -5,8 +5,8 @@ A Data science enthusiast
 - Master of Data analytics
 
 ## Work Experience
-- Data analyst at Deloitte
-- Business Analytics Intern at PMSquare
+- Data analyst at Deloitte ( 2022 Jan - Current )
+- Business Analytics Intern at PMSquare ( 2019 Jan - 2021 April )
 
 ## Projects List
 
