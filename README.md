@@ -11,5 +11,12 @@ A Data science enthusiast.A constant learner, reading towards a post-graduate de
 
 ## Projects List
 
-- [Project 1 : Application of ML to Predict Iris](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/ApplicationofMLtoPredictIris.ipynb)
-- [Project 2 : Webscrape Most Anticipated Animated Movie of 2022 from IMDB](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Webscraping_moviedata.ipynb)
+- [Project 1: Webscrape Most Anticipated Animated Movie of 2022 from IMDB](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Webscraping_moviedata.ipynb)
+- Statistical analysis using R (EDA)
+- ML project for a data set 
+- Visualization data set
+- NLP
+- Time series
+- 
+- 
+- 
