@@ -7,7 +7,7 @@ A Data science enthusiast.A constant learner, reading towards a post-graduate de
 
 ## Work Experience
 - IT-Risk Advisory Consultant/Data analyst at Deloitte ( 2022 Jan - Current )
-- Business Analytics Intern at PMSquare ( 2019 Jan - 2021 April )
+- Business Analytics Intern at PMSquare ( 2019 Jan - 2020 April )
 
 ## Projects List
 
