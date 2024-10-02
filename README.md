@@ -1,5 +1,5 @@
 ## My codebits on Data Science
-A Data science enthusiast.A constant learner, recently completed a post-graduate degree in Data Analytics. Interested in application of data science in emerging fields.
+A Data science enthusiast with a background in Business and Data Analytics.A constant learner, recently completed a post-graduate degree in Data Analytics. 
 
 ## Education
 - Master of Data analytics (2022 - 2023)
