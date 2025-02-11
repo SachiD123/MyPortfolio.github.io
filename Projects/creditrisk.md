@@ -14,6 +14,9 @@ This project was initialised after referring the research article ....... .
 - ** Power BI to analyse loan defaulting**
 - ** Streamlit application to deploy the model**
 
-![Credit Risk Dashboard](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
+![Credit Risk Dashboard]
+(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
+(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Burrowersriskpatterns.png)
+(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loancharacteristics.png)
 
 [View Dashboard](../assets/dashboards/credit-risk.pbix)
