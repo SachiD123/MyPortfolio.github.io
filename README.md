@@ -19,7 +19,8 @@ A Data science enthusiast with a background in Business and Data Analytics.A con
 ### Personal projects
 - [Project 1: Webscrape Most Anticipated Animated Movie of 2022 from IMDB](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Jnotesbooks/Webscraping_moviedata.ipynb)
 - [Project 2: Webscrape best young adult books from Goodreads](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Jnotesbooks/webscrape_books_list.ipynb)
-- Statistical analysis using R (EDA)
+- [Project 3: Prediction of credit risk of loan burrowers]
+- 
 - ML project for a data set 
 - Visualization data set
 - NLP
