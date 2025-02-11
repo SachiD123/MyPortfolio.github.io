@@ -10,8 +10,8 @@ categories: finance machine-learning
 This project was initialised after referring the research article ....... .
 
 ### 📌 Key Components
-- prediction model using python and sci-kit learn
-- Power BI to analyse loan defaulting
-- Streamlit application to deploy the model
+- [prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskPrediction1.1.ipynb)
+- [Power BI to analyse loan defaulting](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
+- [Streamlit application to deploy the model]
 
 [View Dashboard](../assets/dashboards/credit-risk.pbix)
