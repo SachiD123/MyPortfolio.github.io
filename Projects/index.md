@@ -13,4 +13,4 @@
   **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/webscrape_books_list.ipynb)**
 - [Project 3: Prediction of credit risk of loan burrowers]
   **[Prediction model of credit risk of loan burrowers]**
-  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/credit risk.md)**
+  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/creditrisk.md)**
