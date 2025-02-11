@@ -12,10 +12,10 @@
 - [Project 2: Webscrape best young adult books from Goodreads]
 - 🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/webscrape_books_list.ipynb)
 - [Project 3: Prediction of credit risk of loan burrowers]
-  ** Prediction model of credit risk of loan burrowers]**
+-** Prediction model of credit risk of loan burrowers]**
 -🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskPrediction1.1.ipynb)
-** Credit risk analysis of loan burrowers using Power BI ** 
+-** Credit risk analysis of loan burrowers using Power BI ** 
 -🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
-** Prediction model deployment using Streamlit**
+-** Prediction model deployment using Streamlit**
 - **🔗**
 
