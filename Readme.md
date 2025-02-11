@@ -10,7 +10,7 @@ A Data science enthusiast with a background in Business and Data Analytics.A con
 - Business Analytics Intern at PMSquare ( 2019 Jan - 2020 April )
 
 ## [Projects]
--🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/index.md)
+-🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/index.md)
 
 
 ## ✍️ Author  
