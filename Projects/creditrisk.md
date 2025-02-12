@@ -14,4 +14,3 @@ This project was initialised after referring the research article ....... .
 - [Power BI to analyse loan defaulting](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
 - [Streamlit application to deploy the model]
 
-[View Dashboard](../assets/dashboards/credit-risk.pbix)
