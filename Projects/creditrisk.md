@@ -23,7 +23,7 @@ categories: finance machine-learning
 [Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
 
 ## 🔬 **Prediction app Preview** 
-![App Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/.png)
+![App Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/streamlitcredpredapp.png)
 
 
 
