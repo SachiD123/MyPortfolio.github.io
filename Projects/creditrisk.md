@@ -8,7 +8,7 @@ categories: finance machine-learning
 
 ### 🚀 Overview 
 ####📁 [Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
-####📝 Dataset description
+This project explores the burrowers default risk when applying for a loan. It analyses the factors affecting the risks associated with defaulting a loan.  
 
 
 
