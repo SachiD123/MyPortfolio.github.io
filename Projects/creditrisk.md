@@ -20,6 +20,7 @@ categories: finance machine-learning
 ![Dashboard Screenshot1](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
 ![Dashboard Screenshot2](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Burrowersriskpatterns.png)
 ![Dashboard Screenshot3](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loancharacteristics.png)
+![Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysis.pbix)
 
 ## 🔬 **Prediction app Preview** 
 ![App Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/.png)
