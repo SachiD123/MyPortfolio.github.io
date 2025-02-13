@@ -17,7 +17,9 @@ categories: finance machine-learning
 - **Higher interest rates are linked to lower loan grades, indicating riskier borrowers.**
 
 ## 📊 **Dashboard Preview**
-![Dashboard Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
+![Dashboard Screenshot1](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
+![Dashboard Screenshot2](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Burrowersriskpatterns.png)
+![Dashboard Screenshot3](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loancharacteristics.png)
 
 ## 🔬 **Prediction app Preview** 
 ![App Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/.png)
