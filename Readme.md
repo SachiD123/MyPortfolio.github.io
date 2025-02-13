@@ -9,7 +9,7 @@ A Data science enthusiast with a background in Business and Data Analytics.A con
 - IT-Risk Advisory Consultant/Data analyst at Deloitte ( 2022 Jan - Current )
 - Business Analytics Intern at PMSquare ( 2019 Jan - 2020 April )
 
-## 🔗![Projects](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/index.md)
+🔗[Projects](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/index.md)
 
 
 ## ✍️ Author  
