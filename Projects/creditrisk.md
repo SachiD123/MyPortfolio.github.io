@@ -4,10 +4,14 @@ title: "Credit Risk prediction and analysis"
 date: 2024-02-10
 categories: finance machine-learning
 ---
-## Credit Risk Analysis using Machine Learning
+## Analysis of Credit Risk in loans and development of a prediction model 
 
-### 🚀 Overview  
-This project was initialised after referring the research article ....... .
+### 🚀 Overview 
+####📁 [Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+####📝 Dataset description
+
+
+
 
 ### 📌 Key Components
 - [prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskPrediction1.1.ipynb)
