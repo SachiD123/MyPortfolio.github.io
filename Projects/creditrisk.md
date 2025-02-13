@@ -19,6 +19,9 @@ categories: finance machine-learning
 ## 📊 **Dashboard Preview**
 ![Dashboard Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
 
+## 🔬 **Prediction app Preview** 
+![App Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/.png)
+
 
 
 ### 📌 Key Components
