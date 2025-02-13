@@ -7,8 +7,8 @@ categories: finance machine-learning
 ## Analysis of Credit Risk in loans and development of a prediction model 
 
 ### 🚀 Overview 
-####📁 [Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
-This project explores the burrowers default risk when applying for a loan. It analyses the factors affecting the risks associated with defaulting a loan.  
+-📁 [Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+- This project explores the burrowers default risk when applying for a loan. It analyses the factors affecting the risks associated with defaulting a loan.  
 
 
 
