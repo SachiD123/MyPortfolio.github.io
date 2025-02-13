@@ -8,7 +8,13 @@ categories: finance machine-learning
 
 ### 🚀 Overview 
 - 📁[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
-- This project explores the burrowers default risk when applying for a loan. It analyses the factors affecting the risks associated with defaulting a loan.  
+- This project explores the burrowers default risk when applying for a loan. It analyses the factors affecting the risks associated with defaulting a loan.
+
+## 📌 Key Insights  
+- **Shorter credit histories correlate with higher default rates.**
+- **Higher loan percentage relative to income leads to increased default risk.**
+- **Renters and 'Other' homeownership types show the highest default rates.**
+- **Higher interest rates are linked to lower loan grades, indicating riskier borrowers.**
 
 
 
