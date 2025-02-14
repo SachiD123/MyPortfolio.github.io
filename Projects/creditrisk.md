@@ -13,7 +13,9 @@ categories: finance machine-learning
 ![outliers](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/credit_outliers.png)
 
 ## **Exploratory analysis**
-- The data was explored to analyse and identify relationships among data. Insights and interconnections among data was explored further to understand the features effectively.![Correlation_matrix](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/cred_corr.png) Further analysis was done using Power BI to enhance the understandability of the credit dataset.
+- The data was explored to analyse and identify relationships among data. Insights and interconnections among data was explored further to understand the features effectively.
+![Correlation_matrix](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/cred_corr.png)
+Further analysis was done using Power BI to enhance the understandability of the credit dataset.
 ###📌 **Key Insights**
 - **Shorter credit histories correlate with higher default rates.**
 - **Higher loan percentage relative to income leads to increased default risk.**
