@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Credit Risk prediction and analysis"
+title: "Credit Risk prediction and Analaysis"
 date: 2024-02-10
 categories: finance machine-learning
 ---
-## Analysis of Credit Risk in loans and development of a prediction model 
+## **Credit risk prediction using machine learning methods**
 
 ## 🚀 **Overview**
-- This project explores the burrowers default risk when applying for a loan. It analyses the factors affecting the risks associated with defaulting a loan. A public dataset found in Kaggle was used please click the link to download the data set.
-  📁[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+- This project explores the burrowers credit risk in loans and application of machine learning methods to predict credit risk of a loan applicant based on demographic and other characteristics.The technological advancements in machine learning has paved the way to utilise it in many areas of businesses. When credit lenders such as financial institutions lend money it essential to ensure the risk associate with the credit is minimized. Though there are solutions based on classical statistical models such as Logistic regression. This project aims to find a solution based on machine learning approaches. Machine learning models, Decision Tree and Random Forest Regression were used with logistic regression model to compare and analyse the accuracy of each model to classify the risk of default.
+## **Data description**
+-A public dataset found in Kaggle was used, please click the link to download the data set.📁[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) The size of the data set is approximately 32000 and comprised of 11 features.Data preprocessing methods used to handle missing values,duplicates,outlier handling,data imbalance and normalisation. Further, feature importance carried out using XGBclassifier to identify most important features to be included for modelling. 
+  
 
 ## 📌 **Key Insights**
 - **Shorter credit histories correlate with higher default rates.**
