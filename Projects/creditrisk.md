@@ -12,11 +12,13 @@ This project explores the burrowers credit risk in loans and application of mach
 ## **Data loading and Preprocessing**
 
 A public dataset found in Kaggle was used, please click the link to download the data set.📁[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) The size of the data set is approximately 32000 and comprised of 11 features.Data preprocessing methods used to handle missing values,duplicates and outlier handling. The outliers were visualised using boxplots for further analysis.
+
 ![outliers](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/credit_outliers.png)
 
 ## **Exploratory analysis**
 
 The cleaned and prepocessed data was explored to analyse and identify relationships among data. Insights and interconnections among data was explored further to understand the features effectively.
+
 ![correlation](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/credit_corr.png)
 
 Further analysis was done using Power BI to enhance the understandability of the credit dataset.
@@ -28,6 +30,7 @@ Further analysis was done using Power BI to enhance the understandability of the
 - Higher interest rates are linked to lower loan grades, indicating riskier borrowers.
 
 ##### 📊 Dashboard Preview
+
 ![Dashboard Screenshot1](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
 ![Dashboard Screenshot2](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Burrowersriskpatterns.png)
 ![Dashboard Screenshot3](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loancharacteristics.png)
@@ -88,7 +91,7 @@ Randomised search grid was used with a five folds and a sample of 10000 datapoin
 Based on the optimization results the selected final model selected for deployment was Random Forest Algorithm.
 
 
-## 🔬 ** Model Deployment **
+## 🔬 **Model Deployment**
 
 The final model selected was used to develop a simple application which predicts defaults status of a new loan applicant using Streamlit.
 
