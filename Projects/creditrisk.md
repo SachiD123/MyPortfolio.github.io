@@ -33,7 +33,7 @@ Further analysis was done using Power BI to enhance the understandability of the
 ![Dashboard Screenshot3](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loancharacteristics.png)
 [Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
 
-- ## **Methodology**
+## **Methodology**
 - Categorical data was normalised using one-hot encoding method.
 - Multi-collinearity was checked as this dataset consist of a linear model. Based on the results final set of features were selected.
 - Data was scaled to fit for the modelling.
@@ -55,7 +55,7 @@ A machine learning algorithm is model based on the Decision tree which combines 
  
 ## **Evaluation and Results**
 
-Accuracy,precision and recall methods were used to evaluate the models.
+K-fold cross validation of five folds was used to evaluate models and Accuracy,precision and recall values were derived and compared.
   
 | Model           | Accuracy | Precision | Recall |
 |-----------------|----------|-----------|--------|
@@ -63,6 +63,25 @@ Accuracy,precision and recall methods were used to evaluate the models.
 | Decision Tree      | 0.9114   | 0.9158    | 0.9109 |
 | Random Forest     | 0.9392   | 0.9419    | 0.9395 |
 
+## **Optimization of models**
+
+Randomised search grid was used with a five folds and a sample of 10000 datapoints and accuracy score was compared to find the best algorithm with efficient hyper-parameter combination. 
+
+- Train set
+
+| Model           | Accuracy |
+| Logistic Regression | 0.7571000000000001|
+| Decision Tree      |0.8018000000000001|
+| Random Forest     |0.8413|
+
+- Test set
+
+| Model           | Accuracy |
+| Logistic Regression |0.7541713014460512|
+| Decision Tree      |0.7928000808979674|
+| Random Forest     |0.8234401860653251|
+
+Based on the optimization results the selected final model selected for deployment was Random Forest Algorithm.
 
 
 ## 🔬 **Prediction app Preview** 
