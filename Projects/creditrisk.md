@@ -28,6 +28,13 @@ categories: finance machine-learning
 ![Dashboard Screenshot3](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loancharacteristics.png)
 [Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
 
+- ## **Methodology**
+- Categorical data was normalised using one-hot encoding method.
+- Multi-collinearity was checked as this dataset consist of a linear model. Based on the results final set of features were selected.
+- Data was scaled to fit for the modelling.
+- Data imbalances were corrected using balancing methods.
+- Data was split in 80 % to 20 % ratio for the training and testing.
+
 ## **Models used**
 ##### Logistic Regression
 - A classification machine learning algorithm which can be used to predict a given class or not, by estimating the probality of event occuring. It uses the logistic funtion to transform the inputs into values ranging between 0 and
@@ -39,7 +46,27 @@ as the final prediction of the model.
 - A machine learning algorithm is model based on the Decision tree which combines a collection of decision trees to make prediction for classification and regression tasks. It is based on enesemble learning method where two or more machine learning models used to make accurate predictions. Randomly selected parts of the dataset is used to train each tree and use the averaged combine result to make predictions.
  
 ## **Evaluation and Results**
+
+-Accuracy,  precision and recall methods were used to evaluate the models.
   
+---
+model: Logistic Regression
+Accuracy: 0.7610
+Precision: 0.7610
+Recall: 0.7610
+---
+---
+model: Decision Tree
+Accuracy: 0.9114
+Precision:0.9158
+Recall: 0.9109
+---
+---
+model: Random Forest
+Accuracy: 0.9392
+Precision:0.9419
+Recall:0.9395
+---
 
 
 
