@@ -49,24 +49,11 @@ as the final prediction of the model.
 
 -Accuracy,  precision and recall methods were used to evaluate the models.
   
----
-model: Logistic Regression
-Accuracy: 0.7610
-Precision: 0.7610
-Recall: 0.7610
----
----
-model: Decision Tree
-Accuracy: 0.9114
-Precision:0.9158
-Recall: 0.9109
----
----
-model: Random Forest
-Accuracy: 0.9392
-Precision:0.9419
-Recall:0.9395
----
+| Model           | Accuracy | Precision | Recall |
+|-----------------|----------|-----------|--------|
+| Logistic Regression | 0.7610   | 0.7610    | 0.7610 |
+| Decision Tree      | 0.9114   | 0.9158    | 0.9109 |
+| Random Forest     | 0.9392   | 0.9419    | 0.9395 |
 
 
 
