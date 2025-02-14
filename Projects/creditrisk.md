@@ -45,10 +45,12 @@ Further analysis was done using Power BI to enhance the understandability of the
 
 A classification machine learning algorithm which can be used to predict a given class or not, by estimating the probality of event occuring. It uses the logistic funtion to transform the inputs into values ranging between 0 and
 1 probability.
+
 ##### Decision Tree
 
 A machine learning algorithm which is used for classification and regression tasks to make prediction based on a tree like structure. It includes a Root node the starting point of the problem,Branches the flow of the decisions, Internal nodes represents the decisions due to features in the model and Leaf nodes are the ends of the tree which are considered
 as the final prediction of the model.
+
 ##### Random Forest 
 
 A machine learning algorithm is model based on the Decision tree which combines a collection of decision trees to make prediction for classification and regression tasks. It is based on enesemble learning method where two or more machine learning models used to make accurate predictions. Randomly selected parts of the dataset is used to train each tree and use the averaged combine result to make predictions.
@@ -86,12 +88,16 @@ Randomised search grid was used with a five folds and a sample of 10000 datapoin
 Based on the optimization results the selected final model selected for deployment was Random Forest Algorithm.
 
 
-## 🔬 **Prediction app Preview** 
+## 🔬 ** Model Deployment **
+
+The final model selected was used to develop a simple application which predicts defaults status of a new loan applicant using Streamlit.
+
 ![App Screenshot](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/streamlitcredpredapp.png)
 
 
 
-### 📌 Key Components
+##### 📌 Notebook and other elements
+
 - [prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskPrediction1.1.ipynb)
 
 
