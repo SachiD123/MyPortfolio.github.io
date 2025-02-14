@@ -70,6 +70,7 @@ Randomised search grid was used with a five folds and a sample of 10000 datapoin
 - Train set
 
 | Model           | Accuracy |
+|-----------------|----------|
 | Logistic Regression | 0.7571000000000001|
 | Decision Tree      |0.8018000000000001|
 | Random Forest     |0.8413|
@@ -77,6 +78,7 @@ Randomised search grid was used with a five folds and a sample of 10000 datapoin
 - Test set
 
 | Model           | Accuracy |
+|-----------------|----------|
 | Logistic Regression |0.7541713014460512|
 | Decision Tree      |0.7928000808979674|
 | Random Forest     |0.8234401860653251|
