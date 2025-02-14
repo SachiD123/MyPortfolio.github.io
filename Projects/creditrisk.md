@@ -88,7 +88,7 @@ Randomised search grid was used with a five folds and a sample of 10000 datapoin
 | Decision Tree      |0.7928000808979674|
 | Random Forest     |0.8234401860653251|
 
-Based on the optimization results the selected final model selected for deployment was Random Forest Algorithm.
+Based on the optimization results of the test set, the final model selected for deployment was Random Forest Algorithm.
 
 
 ## 🔬 **Model Deployment**
