@@ -35,7 +35,7 @@ Further analysis was done using Power BI to enhance the understandability of the
 ![Dashboard Screenshot1](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
 ![Dashboard Screenshot2](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Burrowersriskpatterns.png)
 ![Dashboard Screenshot3](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loancharacteristics.png)
-[Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
+[Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/CreditRiskAnalysisFinal.pbix)
 
 ## **Methodology**
 
@@ -103,7 +103,7 @@ The final model selected was used to develop a simple application which predicts
 
 ##### 📌 Notebook and References
 
-- [Prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskPrediction1.1.ipynb)
+- [Prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/CreditRisk/Prediction1.1.ipynb)
 - [Reference articles](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/Research_papers)
 
 
