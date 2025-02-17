@@ -101,8 +101,11 @@ The final model selected was used to develop a simple application which predicts
 
 
 
-##### 📌 Notebook and other elements
+##### 📌 Notebook and References
 
 - [prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskPrediction1.1.ipynb)
+- [reference articles]
+  ()
+- 
 
 
