@@ -13,6 +13,7 @@ This project explores the burrowers credit risk in loans and application of mach
 
 A public dataset found in Kaggle was used, please click the link to download the data set.📁[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) The size of the data set is approximately 32000 and comprised of 11 features.Data preprocessing methods used to handle missing values,duplicates and outlier handling. The outliers were visualised using boxplots for further analysis.
 
+![histograms](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/cred_hist.png)
 ![outliers](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/credit_outliers.png)
 
 ## **Exploratory analysis**
@@ -37,11 +38,12 @@ Further analysis was done using Power BI to enhance the understandability of the
 [Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
 
 ## **Methodology**
-- Categorical data was normalised using one-hot encoding method.
-- Multi-collinearity was checked as this dataset consist of a linear model. Based on the results final set of features were selected.
-- Data was scaled to fit for the modelling.
-- Data imbalances were corrected using balancing methods.
-- Data was split in 80 % to 20 % ratio for the training and testing.
+
+Categorical data was normalised using one-hot encoding method.
+Multi-collinearity was checked as this dataset consist of a linear model. Based on the results final set of features were selected.
+Data was scaled to fit for the modelling.
+Data imbalances were corrected using balancing methods.
+Data was split in 80 % to 20 % ratio for the training and testing.
 
 ## **Models used**
 ##### Logistic Regression
@@ -99,8 +101,11 @@ The final model selected was used to develop a simple application which predicts
 
 
 
-##### 📌 Notebook and other elements
+##### 📌 Notebook and References
 
 - [prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskPrediction1.1.ipynb)
+- [reference articles]
+  ()
+- 
 
 
