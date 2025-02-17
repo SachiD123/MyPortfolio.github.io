@@ -1,20 +1,21 @@
 # 📊 Analytics & ML projects
 
 🛠️ Tools & Technologies
+
 **Programming**
--Python: Data Analysis, Machine Learning, Automation
--R: Statistical Analysis, Data Visualization
--SQL: Database Querying, Data Manipulation
+- Python: Data Analysis, Machine Learning, Automation
+- R: Statistical Analysis, Data Visualization
+- SQL: Database Querying, Data Manipulation
 
 **Data Extraction & Processing**
--Web Scraping: BeautifulSoup, Requests
--Data Manipulation: Pandas, NumPy (Python), dplyr (R)
--ETL & Data Pipelines: SQL, Python (Pandas), Power Query (Excel)
+- Web Scraping: BeautifulSoup, Requests
+- Data Manipulation: Pandas, NumPy (Python), dplyr (R)
+- ETL & Data Pipelines: SQL, Python (Pandas), Power Query (Excel)
 
 **Machine Learning & Predictive Analytics**
--Python: Scikit-learn (Supervised ML), XGBoost (Gradient Boosting), Statsmodels (Regression Analysis)
--Model Evaluation: Cross-validation, AUC-ROC, Precision-Recall
--Feature Engineering: One-Hot Encoding, Scaling, PCA
+- Python: Scikit-learn (Supervised ML), XGBoost (Gradient Boosting), Statsmodels (Regression Analysis)
+- Model Evaluation: Cross-validation, AUC-ROC, Precision-Recall
+- Feature Engineering: One-Hot Encoding, Scaling, PCA
 
 **Data Visualization**
 -Python: Seaborn, Plotly (Exploratory Data Analysis)
