@@ -38,11 +38,12 @@ Further analysis was done using Power BI to enhance the understandability of the
 [Download Dashboard here](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRiskAnalysisFinal.pbix)
 
 ## **Methodology**
-- Categorical data was normalised using one-hot encoding method.
-- Multi-collinearity was checked as this dataset consist of a linear model. Based on the results final set of features were selected.
-- Data was scaled to fit for the modelling.
-- Data imbalances were corrected using balancing methods.
-- Data was split in 80 % to 20 % ratio for the training and testing.
+
+Categorical data was normalised using one-hot encoding method.
+Multi-collinearity was checked as this dataset consist of a linear model. Based on the results final set of features were selected.
+Data was scaled to fit for the modelling.
+Data imbalances were corrected using balancing methods.
+Data was split in 80 % to 20 % ratio for the training and testing.
 
 ## **Models used**
 ##### Logistic Regression
