@@ -18,9 +18,9 @@
 - Feature Engineering: One-Hot Encoding, Scaling, PCA
 
 **Data Visualization**
--Python: Seaborn, Plotly (Exploratory Data Analysis)
--R: ggplot2 (Statistical Graphics)
--Power BI: Interactive Dashboards, DAX Calculations
+- Python: Seaborn, Plotly (Exploratory Data Analysis)
+- R: ggplot2 (Statistical Graphics)
+- Power BI: Interactive Dashboards, DAX Calculations
 
 ## 📌Personal projects
 - [Project 1: Webscrape Most Anticipated Animated Movie of 2022 from IMDB]
