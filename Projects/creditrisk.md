@@ -13,7 +13,7 @@ This project explores the burrowers credit risk in loans and application of mach
 
 A public dataset found in Kaggle was used, please click the link to download the data set.📁[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) The size of the data set is approximately 32000 and comprised of 11 features.Data preprocessing methods used to handle missing values,duplicates and outlier handling. The outliers were visualised using boxplots for further analysis.
 
-![outliers](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/credit_outliers.png)
+![histograms](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/cred_hist.png)|![outliers](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/credit_outliers.png)
 
 ## **Exploratory analysis**
 
