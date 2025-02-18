@@ -6,12 +6,12 @@ categories: finance machine-learning
 ---
 ## **Credit risk prediction using machine learning methods**
 
-## 🚀 **Overview**
+## **Overview**
 
 This project explores the burrowers credit risk in loans and application of machine learning methods to predict credit risk of a loan applicant based on demographic and other characteristics.The technological advancements in machine learning has paved the way to utilise it in many areas of businesses. When credit lenders such as financial institutions lend money it essential to ensure the risk associate with the credit is minimized. Though there are solutions based on classical statistical models such as Logistic regression. This project aims to find a solution based on machine learning approaches. Machine learning models, Decision Tree and Random Forest Regression were used with logistic regression model to compare and analyse the accuracy of each model to classify the risk of default.
 ## **Data loading and Preprocessing**
 
-A public dataset found in Kaggle was used, please click the link to download the data set.📁[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) The size of the data set is approximately 32000 and comprised of 11 features.Data preprocessing methods used to handle missing values,duplicates and outlier handling. The outliers were visualised using boxplots for further analysis.
+A public dataset found in Kaggle was used, please click the link to download the data set.[Dataset link](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) The size of the data set is approximately 32000 and comprised of 11 features.Data preprocessing methods used to handle missing values,duplicates and outlier handling. The outliers were visualised using boxplots for further analysis.
 
 ![histograms](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/cred_hist.png)
 ![outliers](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/credit_outliers.png)
@@ -24,13 +24,13 @@ The cleaned and prepocessed data was explored to analyse and identify relationsh
 
 Further analysis was done using Power BI to enhance the understandability of the credit dataset.
 
-##### 📌Key Insights
+##### Key Insights
 - Shorter credit histories correlate with higher default rates.
 - Higher loan percentage relative to income leads to increased default risk.
 - Renters and 'Other' homeownership types show the highest default rates.
 - Higher interest rates are linked to lower loan grades, indicating riskier borrowers.
 
-##### 📊 Dashboard Preview
+##### Dashboard Preview
 
 ![Dashboard Screenshot1](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
 ![Dashboard Screenshot2](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Burrowersriskpatterns.png)
@@ -93,7 +93,7 @@ Randomised search grid was used with a five folds and a sample of 10000 datapoin
 Based on the optimization results of the test set, the final model selected for deployment was Random Forest Algorithm.
 
 
-## 🔬 **Model Deployment**
+## **Model Deployment**
 
 The final model selected was used to develop a simple application which predicts defaults status of a new loan applicant using Streamlit.
 
@@ -101,9 +101,10 @@ The final model selected was used to develop a simple application which predicts
 
 
 
-##### 📌 Notebook and References
+##### Resources and References
 
 - [Prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/Prediction1.1.ipynb)
+- [Streamlit app code](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/CredPredApp.py)
 - [Reference articles](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/Research_papers)
 
 
