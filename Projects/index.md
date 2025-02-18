@@ -28,4 +28,4 @@
 - [Project 2: Webscrape best young adult books from Goodreads]
   **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/webscrape_books_list.ipynb)**
 - [Project 3: Prediction of probability of defaults for loans]
-  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/creditrisk.md)**
+  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/creditrisk.md)**
