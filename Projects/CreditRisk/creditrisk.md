@@ -30,7 +30,7 @@ Further analysis was done using Power BI to enhance the understandability of the
 - Renters and 'Other' homeownership types show the highest default rates.
 - Higher interest rates are linked to lower loan grades, indicating riskier borrowers.
 
-##### Dashboard Preview
+##### **Dashboard Preview**
 
 ![Dashboard Screenshot1](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Loandefaultstrends.png)
 ![Dashboard Screenshot2](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Images/Burrowersriskpatterns.png)
@@ -101,7 +101,7 @@ The final model selected was used to develop a simple application which predicts
 
 
 
-##### Resources and References
+##### **Resources and References**
 
 - [Prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/Prediction1.1.ipynb)
 - [Streamlit app code](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/CredPredApp.py)
