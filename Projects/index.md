@@ -27,5 +27,5 @@
   **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/Webscraping_moviedata.ipynb)**
 - [Project 2: Webscrape best young adult books from Goodreads]
   **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/webscrape_books_list.ipynb)**
-- [Project 3: Prediction of probability of defaults for loans]
+- [Project 3: Credit risk prediction using machine learning methods]
   **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/creditrisk.md)**
