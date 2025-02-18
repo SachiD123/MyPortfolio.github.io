@@ -5,7 +5,7 @@
 **Programming**
 - Python: Data Analysis, Machine Learning, Automation
 - R: Statistical Analysis, Data Visualization
-- SQL: Database Querying, Data Manipulation
+- SQL: Database Querying, Data Manipulation,Data Modelling
 
 **Data Extraction & Processing**
 - Web Scraping: BeautifulSoup, Requests
