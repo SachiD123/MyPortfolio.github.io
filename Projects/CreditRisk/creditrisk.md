@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Credit Risk prediction and Analaysis"
+title: "Credit Risk prediction and Analysis"
 date: 2024-02-10
 categories: finance machine-learning
 ---
