@@ -103,7 +103,7 @@ The final model selected was used to develop a simple application which predicts
 
 ##### **Resources and References**
 
-- [Prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/Prediction1.1.ipynb)
+- [Prediction model using python and sci-kit learn](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/CreditRiskPrediction1.1.ipynb)
 - [Streamlit app code](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/CredPredApp.py)
 - [Reference articles](https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/Research_papers)
 
