@@ -29,9 +29,4 @@
 - [Prediction/Forecast of Forex Rate Using Data Analytic Techniques (USD to LKR)]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/ForexRateUsingDataAnalyticTechniquesUSDtoLKR_Final.docx)**
 
 ## 📌Personal projects
-- [Project 1: Webscrape Most Anticipated Animated Movie of 2022 from IMDB]
-  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/Webscraping_moviedata.ipynb)**
-- [Project 2: Webscrape best young adult books from Goodreads]
-  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/webscrape_books_list.ipynb)**
-- [Project 3: Credit risk prediction using machine learning methods]
-  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/creditrisk.md)**
+- [Project 1: Credit risk prediction using machine learning methods] **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/CreditRisk/creditrisk.md)**
