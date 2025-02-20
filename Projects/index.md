@@ -26,7 +26,8 @@
 - [Business and sales analysis of a fictional supermarket chain using Power BI]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/BI-Assignment_Group_D&E -12.07.2022.pbix)**
 - [Data warehouse implementation of a facility management company]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/DBSystems_Mini_Project.docx)**
 - [Determination of political biases of news reporting websites in Sri Lanka using Text Analysis]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/TextAnalyticsFinalAssignment.docx)**
-- [Prediction/Forecast of Forex Rate Using Data Analytic Techniques (USD to LKR)]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/Forex Rate Using Data Analytic Techniques - USD to LKR_Final.docx)**
+- [Prediction/Forecast of Forex Rate Using Data Analytic Techniques (USD to LKR)]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/ForexRateUsingDataAnalyticTechniquesUSDtoLKR_Final.docx)**
+
 ## 📌Personal projects
 - [Project 1: Webscrape Most Anticipated Animated Movie of 2022 from IMDB]
   **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Projects/Webscraping_moviedata.ipynb)**
