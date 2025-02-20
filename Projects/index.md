@@ -23,7 +23,7 @@
 - Power BI: Interactive Dashboards, DAX Calculations
 
 ## 🗂️ Key Group Course works & projects
-- [Business and sales analysis of a fictional supermarket chain using Power BI]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/BI-Assignment_Group_D&E -12.07.2022.pbix)**
+- [Business and sales analysis of a fictional supermarket chain using Power BI]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/BI-Assignment_Group_D&E.pbix)**
 - [Data warehouse implementation of a facility management company]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/DBSystems_Mini_Project.docx)**
 - [Determination of political biases of news reporting websites in Sri Lanka using Text Analysis]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/TextAnalyticsFinalAssignment.docx)**
 - [Prediction/Forecast of Forex Rate Using Data Analytic Techniques (USD to LKR)]  **🔗(https://github.com/SachiD123/MyPortfolio.github.io/blob/main/Coursework/ForexRateUsingDataAnalyticTechniquesUSDtoLKR_Final.docx)**
